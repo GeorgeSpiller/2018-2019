@@ -1,0 +1,197 @@
+------------------------------------------------------------ 
+image01.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2015:07:07 04:00:17 
+key:DateTimeDigitized, val:2015:07:07 04:00:17 
+key:ExifImageWidth, val:5184 
+key:ExifImageHeight, val:3456 
+key:Make, val:Canon 
+key:Model, val:Canon EOS REBEL T3i 
+key:XResolution, val:(72, 1) 
+key:YResolution, val:(72, 1) 
+key:ISOSpeedRatings, val:100 
+key:ResolutionUnit, val:2 
+key:WhiteBalance, val:0 
+------------------------------------------------------------ 
+image02.jpg 
+------------------------------------------------------------ 
+key:ExifImageWidth, val:720 
+key:ExifImageHeight, val:960 
+key:ResolutionUnit, val:2 
+key:XResolution, val:(72, 1) 
+key:YResolution, val:(72, 1) 
+------------------------------------------------------------ 
+image03.jpg 
+------------------------------------------------------------ 
+------------------------------------------------------------ 
+image04.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2017:07:01 15:08:04 
+key:DateTimeDigitized, val:2017:07:01 15:08:04 
+key:WhiteBalance, val:0 
+key:Model, val:Canon EOS 5D Mark IV 
+key:Make, val:Canon 
+key:XResolution, val:(72, 1) 
+key:YResolution, val:(72, 1) 
+key:ISOSpeedRatings, val:100 
+key:ResolutionUnit, val:2 
+------------------------------------------------------------ 
+image05.jpg 
+------------------------------------------------------------ 
+------------------------------------------------------------ 
+image06.jpg 
+------------------------------------------------------------ 
+------------------------------------------------------------ 
+image07.jpg 
+------------------------------------------------------------ 
+key:ExifImageWidth, val:3568 
+key:ExifImageHeight, val:2332 
+key:ResolutionUnit, val:2 
+key:XResolution, val:(600, 1) 
+key:YResolution, val:(600, 1) 
+------------------------------------------------------------ 
+image08.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2007:08:01 12:24:05 
+key:DateTimeDigitized, val:2007:08:01 12:24:05 
+key:ExifImageWidth, val:2832 
+key:ExifImageHeight, val:2128 
+key:Model, val:KODAK C663 ZOOM DIGITAL CAMERA 
+key:XResolution, val:(1115684864, 2097152) 
+key:YResolution, val:(1115684864, 2097152) 
+key:ISOSpeedRatings, val:160 
+key:ResolutionUnit, val:2 
+key:WhiteBalance, val:0 
+key:Make, val:EASTMAN KODAK COMPANY 
+------------------------------------------------------------ 
+image09.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2008:01:26 17:26:53 
+key:DateTimeDigitized, val:2008:01:26 17:26:53 
+key:ExifImageWidth, val:3648 
+key:ExifImageHeight, val:2736 
+key:Make, val:Panasonic 
+key:Model, val:DMC-FZ50 
+key:XResolution, val:(72, 1) 
+key:YResolution, val:(72, 1) 
+key:ISOSpeedRatings, val:100 
+key:ResolutionUnit, val:2 
+key:WhiteBalance, val:0 
+------------------------------------------------------------ 
+image10.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2008:12:07 13:32:27 
+key:DateTimeDigitized, val:2008:12:07 13:32:27 
+key:Make, val:SONY 
+key:Model, val:DSC-P100 
+key:XResolution, val:(4718592, 65536) 
+key:YResolution, val:(4718592, 65536) 
+key:ISOSpeedRatings, val:100 
+key:ResolutionUnit, val:2 
+------------------------------------------------------------ 
+image11.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2008:12:07 12:15:10 
+key:DateTimeDigitized, val:2008:12:07 12:15:10 
+key:ExifImageWidth, val:2592 
+key:ExifImageHeight, val:1944 
+key:Make, val:SONY 
+key:Model, val:DSC-P100 
+key:XResolution, val:(4718592, 65536) 
+key:YResolution, val:(4718592, 65536) 
+key:ISOSpeedRatings, val:320 
+key:ResolutionUnit, val:2 
+key:WhiteBalance, val:0 
+------------------------------------------------------------ 
+image12.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2005:08:19 15:41:47 
+key:DateTimeDigitized, val:2005:08:19 15:41:47 
+key:ExifImageWidth, val:1280 
+key:ExifImageHeight, val:960 
+key:Make, val:FUJIFILM 
+key:Model, val:FinePix S304   
+key:XResolution, val:(72, 1) 
+key:YResolution, val:(72, 1) 
+key:ISOSpeedRatings, val:100 
+key:ResolutionUnit, val:2 
+key:WhiteBalance, val:0 
+------------------------------------------------------------ 
+image13.jpg 
+------------------------------------------------------------ 
+------------------------------------------------------------ 
+image14.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2007:05:28 11:42:39 
+key:DateTimeDigitized, val:2007:05:28 11:42:39 
+key:ExifImageWidth, val:2272 
+key:ExifImageHeight, val:1712 
+key:Make, val:Hewlett-Packard 
+key:Model, val:HP PhotoSmart C812 (V09.21) 
+key:XResolution, val:(72, 1) 
+key:YResolution, val:(72, 1) 
+key:ISOSpeedRatings, val:100 
+key:ResolutionUnit, val:2 
+------------------------------------------------------------ 
+image15.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2003:09:26 17:51:47 
+key:DateTimeDigitized, val:2003:09:26 17:51:47 
+key:ExifImageWidth, val:640 
+key:Make, val:SONY 
+key:ExifImageHeight, val:480 
+key:Model, val:FDMAVICA      
+key:XResolution, val:(72, 1) 
+key:YResolution, val:(72, 1) 
+key:ISOSpeedRatings, val:100 
+key:ResolutionUnit, val:2 
+------------------------------------------------------------ 
+image16.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2011:07:06 13:52:39 
+key:DateTimeDigitized, val:2011:07:06 13:52:39 
+key:ExifImageWidth, val:1682 
+key:ExifImageHeight, val:1121 
+key:Make, val:Canon 
+key:Model, val:Canon EOS DIGITAL REBEL XSi 
+key:XResolution, val:(72, 1) 
+key:YResolution, val:(72, 1) 
+key:ISOSpeedRatings, val:200 
+key:ResolutionUnit, val:2 
+key:WhiteBalance, val:0 
+------------------------------------------------------------ 
+image17.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2003:06:23 10:02:21 
+key:DateTimeDigitized, val:2003:06:23 10:02:21 
+key:ExifImageWidth, val:1280 
+key:Make, val:SONY 
+key:ExifImageHeight, val:960 
+key:Model, val:DSC-P72 
+key:XResolution, val:(4718592, 65536) 
+key:YResolution, val:(4718592, 65536) 
+key:ISOSpeedRatings, val:100 
+key:ResolutionUnit, val:2 
+key:WhiteBalance, val:0 
+------------------------------------------------------------ 
+image18.jpg 
+------------------------------------------------------------ 
+key:DateTimeOriginal, val:2009:07:15 17:05:12 
+key:DateTimeDigitized, val:2009:07:15 17:05:12 
+key:Make, val:FUJIFILM 
+key:Model, val:FinePix A340    
+key:XResolution, val:(4718592, 65536) 
+key:YResolution, val:(4718592, 65536) 
+key:ISOSpeedRatings, val:100 
+key:ResolutionUnit, val:2 
+------------------------------------------------------------ 
+image19.jpg 
+------------------------------------------------------------ 
+key:ExifImageWidth, val:500 
+key:ExifImageHeight, val:500 
+key:ResolutionUnit, val:2 
+key:XResolution, val:(72, 1) 
+key:YResolution, val:(72, 1) 
+------------------------------------------------------------ 
+image20.jpg 
+------------------------------------------------------------ 
