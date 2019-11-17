@@ -48,7 +48,10 @@ def DownloadAudio(link):
     fileLoc = os.getcwd() + "\\Audio\\" + fileName
     # print(f"Downlaoded file {fileName} in location {fileLoc}")
     return fileLoc
-    
+
+
 def FinalPlaySound(quote):
-    playsound(DownloadAudio(GetDownloadUrl(quote)))
-    return
+    fileLoc = DownloadAudio(GetDownloadUrl(quote))
+    playsound(fileLoc)
+
+

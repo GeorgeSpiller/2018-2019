@@ -2,6 +2,7 @@ import sys
 #import numpy as np # used for the un used levenshtein fucntion
 from fuzzywuzzy import process
 import GrabAudio as GA
+import os
 #============================================================================================================================
 # Useful function for string comparason, if ratio_calc=True outputs a normalised ratio of how similar the two strings are
 # This is useful for small strings that you know are v similar but falls short for wildly abstract string processing
@@ -54,7 +55,7 @@ def levenshtein_ratio_and_distance(s, t, ratio_calc = False):
 #============================================================================================================================
 
 def readGen():
-    for line in open("outpQuotParsed.txt", encoding="ANSI"):
+    for line in open("quoteList.txt", encoding="ANSI"):
         yield line
 
 # Below we use the FuzzyWuzzy library
